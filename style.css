@@ -1,8 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	background-image:url(images/fauzan.jpg);
-	background-repeat:repeat-x;
+	/*background-image:url(images/fauzan.jpg);*/
+	/*background-repeat:repeat-x; */
 	/*background-repeat:repeat-y;*/
 	background-color:lightblue;
 	}
@@ -50,5 +50,9 @@ a:active {
 =======
 /*Jisda development center*/
 /*Assalamualaikum saya mau tambah lagi */
+<<<<<<< HEAD
+/*Fauzan Yohtae*/
+=======
 /*Mau Rubah*/
 >>>>>>> aa5905cd8eb8d0871f688708560ec2b072b96f13
+>>>>>>> 99bda1b335bce33327ac6ea38f0eff92c6247cd3
